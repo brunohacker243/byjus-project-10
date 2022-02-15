@@ -38,8 +38,4 @@ function draw() {
   }
     
   drawSprites();
-  
-  textSize(25);
-  text("Eu fiz tudo que o projeto pede, eu",0,50)
-  text("não sei por que não deu certo.",0,75)
 }
